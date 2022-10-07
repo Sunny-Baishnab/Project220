@@ -1,4 +1,4 @@
-const socket = i
+cost socket = io("/");
 
 var peer = new Peer(undefined, {
     path: "/peerjs",
